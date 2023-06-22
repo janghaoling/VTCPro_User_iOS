@@ -1,0 +1,123 @@
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "0Ga-bF-mAj"; */
+"0Ga-bF-mAj.placeholder" = "Nom";
+
+/* Class = "UITextField"; placeholder = "Referral Code (Optional)"; ObjectID = "2YQ-iu-We6"; */
+"2YQ-iu-We6.placeholder" = "Code de parrainage (facultatif)";
+
+/* Class = "UITextField"; placeholder = "PhoneNumber"; ObjectID = "34b-tR-YYR"; */
+"34b-tR-YYR.placeholder" = "N° de mobile";
+
+/* Class = "UITextField"; placeholder = "sdfdsf"; ObjectID = "3pI-wo-W3o"; */
+"3pI-wo-W3o.placeholder" = "sdfdsf";
+
+/* Class = "UITextField"; text = "sdfvsdf"; ObjectID = "3pI-wo-W3o"; */
+"3pI-wo-W3o.text" = "sdfvsdf";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "4c0-Fz-ESP"; */
+"4c0-Fz-ESP.text" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "70e-aX-lcA"; */
+"70e-aX-lcA.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP"; ObjectID = "Ahg-tV-scR"; */
+"Ahg-tV-scR.normalTitle" = "S'INSCRIRE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AtC-Ps-tAd"; */
+"AtC-Ps-tAd.normalTitle" = "Bouton";
+
+/* Class = "UITextField"; placeholder = "sdfdsf"; ObjectID = "B2S-4Z-xsA"; */
+"B2S-4Z-xsA.placeholder" = "sdfdsf";
+
+/* Class = "UITextField"; text = "sdfvsdf"; ObjectID = "B2S-4Z-xsA"; */
+"B2S-4Z-xsA.text" = "sdfvsdf";
+
+/* Class = "UILabel"; text = "Business"; ObjectID = "CDE-08-LWI"; */
+"CDE-08-LWI.text" = "Business";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ENL-XW-BgV"; */
+"ENL-XW-BgV.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "FNx-Ht-wjq"; */
+"FNx-Ht-wjq.text" = "Station extérieure";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HLi-bv-tQq"; */
+"HLi-bv-tQq.normalTitle" = "Bouton";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "HS6-02-D9i"; */
+"HS6-02-D9i.placeholder" = "Pays";
+
+/* Class = "UIButton"; normalTitle = "Or connect with social"; ObjectID = "Ibb-hF-1i1"; */
+"Ibb-hF-1i1.normalTitle" = "Connectez-vous avec Facebook ou Google.";
+
+/* Class = "UILabel"; text = "Two Way"; ObjectID = "Ix3-kt-16r"; */
+"Ix3-kt-16r.text" = "Aller/Retour";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "Jjr-uf-y2q"; */
+"Jjr-uf-y2q.placeholder" = "Espace réservé";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "KSe-6p-Z6Q"; */
+"KSe-6p-Z6Q.placeholder" = "Nom";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MJl-so-OwP"; */
+"MJl-so-OwP.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RPM-aP-WL6"; */
+"RPM-aP-WL6.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "V3n-9j-i4h"; */
+"V3n-9j-i4h.text" = "Station extérieure";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dEH-FV-JU4"; */
+"dEH-FV-JU4.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "Personal"; ObjectID = "dS3-n3-KGh"; */
+"dS3-n3-KGh.text" = "Personnel";
+
+/* Class = "UITextField"; placeholder = "sdfdsf"; ObjectID = "eto-hO-k6i"; */
+"eto-hO-k6i.placeholder" = "sdfdsf";
+
+/* Class = "UITextField"; text = "sdfvsdf"; ObjectID = "eto-hO-k6i"; */
+"eto-hO-k6i.text" = "sdfvsdf";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "f1u-8C-H9m"; */
+"f1u-8C-H9m.placeholder" = "Confirmez le mot de passe";
+
+/* Class = "UITextField"; placeholder = "sdfdsf"; ObjectID = "ftQ-hE-Z1g"; */
+"ftQ-hE-Z1g.placeholder" = "sdfdsf";
+
+/* Class = "UITextField"; text = "sdfvsdf"; ObjectID = "ftQ-hE-Z1g"; */
+"ftQ-hE-Z1g.text" = "sdfvsdf";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "jbd-il-swr"; */
+"jbd-il-swr.placeholder" = "Espace réservé";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "kx1-38-SvC"; */
+"kx1-38-SvC.placeholder" = "Espace réservé";
+
+/* Class = "UILabel"; text = "One Way"; ObjectID = "lVH-HM-B85"; */
+"lVH-HM-B85.text" = "Aller simple";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "olx-QC-11F"; */
+"olx-QC-11F.normalTitle" = "Boutton";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "phN-Q1-F4f"; */
+"phN-Q1-F4f.placeholder" = "Espace réservé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qOl-Zw-BWs"; */
+"qOl-Zw-BWs.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "TIme Zone"; ObjectID = "tg0-fz-HVL"; */
+"tg0-fz-HVL.placeholder" = "Fuseau horaire";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "vwb-CF-hIH"; */
+"vwb-CF-hIH.placeholder" = "Espace réservé";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wBh-4I-CWM"; */
+"wBh-4I-CWM.placeholder" = "Mot de passe";
+
+/* Class = "UITextField"; placeholder = "PlaceHolder"; ObjectID = "yJb-6D-2pP"; */
+"yJb-6D-2pP.placeholder" = "Espace réservé";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yt5-c5-uBn"; */
+"yt5-c5-uBn.normalTitle" = "Bouton";
